@@ -152,7 +152,7 @@ I want to give credit to the following for playing their part in this code being
 | Feature | C++ | C# |
 |---------|-----|-----|
 | External Dependencies | None | BouncyCastle |
-| Executable Size | ~200KB | ~2MB |
+| Executable Size | ~1200KB | ~2MB |
 | Performance | Faster | Slower |
 | Command Line Args | No | Yes |
 | File Output | Yes | Yes |
