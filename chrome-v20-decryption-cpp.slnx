@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="chrome-v20-decryption-cpp/chrome-v20-decryption-cpp.vcxproj" Id="68edeb13-49ba-41c5-b09a-8d11e582b91a" />
+</Solution>
